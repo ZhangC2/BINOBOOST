@@ -1,10 +1,10 @@
 # BINOBOOST
 This project is for our ICIP2019 paper "BINOBOOST: BOOSTING SELF-SUPERVISED MONOCULAR DEPTH PREDICTION WITH BINOCULAR GUIDANCE"
-##network
+## network
 <p align="center" >
 <img src="network.jpg"  float=left>
 </p>
-##result
+## result
 <p align="center" >
 <img src="result.jpg"  float=left>
 </p>
